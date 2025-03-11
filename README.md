@@ -18,6 +18,9 @@ A tool to help Monday.com users export data from Monday.com API.
 Monday.com exports data that includes learning source links and group names. This tool helps filter out those elements from the output, ensuring that the final dataset contains only one table header and the intended data.
 To exclude specific group names, add them to the exclusion list in monday-data-export.conf.
 
+## Limitations
+* The current version cannot support linked columns in Monday boards.
+
 ## Contact
 Any questions please drop me an email or follow me at X.
 
