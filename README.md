@@ -2,7 +2,7 @@
 ## Description
 A tool to help Monday.com users export data from Monday.com API.
 
-## Supported output formal
+## Supported output formats
 * CSV
 * Excel
 * Google Sheets
