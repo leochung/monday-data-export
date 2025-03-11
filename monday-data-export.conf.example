@@ -1,0 +1,10 @@
+{
+    "api_token_path": "monday_api_token.txt",
+    "workspace_name": "Workspace Name",
+    "board_name": "Board Name",
+    "google_credentials": "google_credentials.json",
+    "google_sheet_name": "Google Sheet Name",
+    "output_format": "excel",
+    "table_header_id": "Name",
+    "exclusion_list": ["Learn how to use monday CRM: https://youtu.be/QjKcGGVPLVE"]
+}
