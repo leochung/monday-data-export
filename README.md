@@ -21,7 +21,6 @@ To exclude specific group names, add them to the exclusion list in monday-data-e
 ## Limitations
 * The current version cannot support linked columns in Monday boards.
 
-## Contact
-Any questions please drop me an email or follow me at X.
-
+## Connect with Me  
+Any questions please drop me an email or follow me at <a href="https://x.com/leo_chung">X</a>.
 
