@@ -24,7 +24,3 @@ To exclude specific group names, add them to the exclusion list in monday-data-e
 ## Disclaimer
 This tool is not **affiliated with, endorsed by, or officially associated with Monday.com**. The Monday.com logo and branding belong to their respective owners.
 This is a **read-only query tool** designed to help administrators filter and refine exported data. It does not modify any data within Monday.com. Users should ensure they understand the exported data structure before using this tool.
-
-## Connect with Me  
-Any questions please drop me an email or follow me at <a href="https://x.com/leo_chung">X</a>.
-
